@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['pir_5fsense_5fstart',['pir_sense_start',['../group__group__pir__sense.html#ga7adc7e81d4829fc874a46032240cf1fd',1,'pir_sense_start(pir_sense_cfg *init):&#160;pir_sense.c'],['../group__group__pir__sense.html#ga7adc7e81d4829fc874a46032240cf1fd',1,'pir_sense_start(pir_sense_cfg *init):&#160;pir_sense.c']]],
+  ['pir_5fsense_5fstop',['pir_sense_stop',['../group__group__pir__sense.html#gaf868765ff45bf9ca3e8d8d81e925c8b7',1,'pir_sense_stop(void):&#160;pir_sense.c'],['../group__group__pir__sense.html#gaf868765ff45bf9ca3e8d8d81e925c8b7',1,'pir_sense_stop(void):&#160;pir_sense.c']]],
+  ['pot_5ftest',['pot_test',['../group__testing__header.html#ga23e497e5f8f54775442e9e68765a7487',1,'pot_test(void):&#160;hw_testing_app.c'],['../group__testing__header.html#ga23e497e5f8f54775442e9e68765a7487',1,'pot_test(void):&#160;hw_testing_app.c']]],
+  ['power_5ftest',['power_test',['../group__testing__header.html#gae2ba85e5789ee5b695f72c9d568941bf',1,'power_test(void):&#160;hw_testing_app.c'],['../group__testing__header.html#gae2ba85e5789ee5b695f72c9d568941bf',1,'power_test(void):&#160;hw_testing_app.c']]],
+  ['printfcomma',['printfcomma',['../group__group__profiler__timer.html#ga54a814f2e5df087fa43aee4dcfeaa8bf',1,'printfcomma(uint32_t num):&#160;profiler_timer.c'],['../group__group__profiler__timer.html#ga54a814f2e5df087fa43aee4dcfeaa8bf',1,'printfcomma(uint32_t num):&#160;profiler_timer.c']]],
+  ['profiler_5ftimer_5fdeinit',['profiler_timer_deinit',['../group__group__profiler__timer.html#ga939a8aec9bac8bce541d60f29b6ae148',1,'profiler_timer_deinit():&#160;profiler_timer.c'],['../group__group__profiler__timer.html#ga939a8aec9bac8bce541d60f29b6ae148',1,'profiler_timer_deinit():&#160;profiler_timer.c']]],
+  ['profiler_5ftimer_5finit',['profiler_timer_init',['../group__group__profiler__timer.html#ga285808b4b2b54106addceeda537a73c1',1,'profiler_timer_init(void):&#160;profiler_timer.c'],['../group__group__profiler__timer.html#ga285808b4b2b54106addceeda537a73c1',1,'profiler_timer_init(void):&#160;profiler_timer.c']]],
+  ['profiler_5ftimer_5fis_5fon',['profiler_timer_is_on',['../group__group__profiler__timer.html#ga69cb2d6f5be0bc7d7c196243cf7d7665',1,'profiler_timer_is_on(void):&#160;profiler_timer.c'],['../group__group__profiler__timer.html#ga69cb2d6f5be0bc7d7c196243cf7d7665',1,'profiler_timer_is_on(void):&#160;profiler_timer.c']]]
+];

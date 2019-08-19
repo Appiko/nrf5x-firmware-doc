@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['rco_5fratio_5f1',['RCO_RATIO_1',['../group__Gpio__Exported__Types.html#ggafb04dca9bd7d6b37301b6ceed8b7b468ae9ee781aea60b8bb046b15b40da1f779',1,'S2LP_Gpio.h']]],
+  ['rco_5fratio_5f1_5f128',['RCO_RATIO_1_128',['../group__Gpio__Exported__Types.html#ggafb04dca9bd7d6b37301b6ceed8b7b468aefef9869802b5c0c801d5c866fda7eaf',1,'S2LP_Gpio.h']]],
+  ['ready',['READY',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550a6564f2f3e15be06b670547bbcaaf0798',1,'S2LP_Gpio.h']]],
+  ['rssi_5fabove_5fth',['RSSI_ABOVE_TH',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550ae0667c4c85d88a43a2e518ca74c2ac2e',1,'S2LP_Gpio.h']]],
+  ['rssi_5fabove_5fthreshold',['RSSI_ABOVE_THRESHOLD',['../group__Timer__Exported__Types.html#ggad65a147ca62da79b9550f0696ff3fdf9a1061a98c95c3e53a35d96c5ff5006342',1,'S2LP_Timer.h']]],
+  ['rssi_5fand_5fpqi_5fabove_5fthreshold',['RSSI_AND_PQI_ABOVE_THRESHOLD',['../group__Timer__Exported__Types.html#ggad65a147ca62da79b9550f0696ff3fdf9a93df97563fb0e5e2b7ad05fd861c512c',1,'S2LP_Timer.h']]],
+  ['rssi_5fand_5fsqi_5fabove_5fthreshold',['RSSI_AND_SQI_ABOVE_THRESHOLD',['../group__Timer__Exported__Types.html#ggad65a147ca62da79b9550f0696ff3fdf9a1efcad039996ff25ec86d10188d01aa9',1,'S2LP_Timer.h']]],
+  ['rssi_5for_5fpqi_5fabove_5fthreshold',['RSSI_OR_PQI_ABOVE_THRESHOLD',['../group__Timer__Exported__Types.html#ggad65a147ca62da79b9550f0696ff3fdf9ad36b834df57b7103702c97893e6d0503',1,'S2LP_Timer.h']]],
+  ['rssi_5for_5fsqi_5fabove_5fthreshold',['RSSI_OR_SQI_ABOVE_THRESHOLD',['../group__Timer__Exported__Types.html#ggad65a147ca62da79b9550f0696ff3fdf9ae5cb67219fe2665c30226cb11ddc7d49',1,'S2LP_Timer.h']]],
+  ['rx_5fdata_5fdisc',['RX_DATA_DISC',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550a7c348d4984fba627444c5b56cf76c594',1,'S2LP_Gpio.h']]],
+  ['rx_5fdata_5fready',['RX_DATA_READY',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550a1e92cdb4909cf182a0f53feff3a1a072',1,'S2LP_Gpio.h']]],
+  ['rx_5ffifo_5falmost_5fempty',['RX_FIFO_ALMOST_EMPTY',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550aa68eae05f2d12181be4bb7720c6ad39a',1,'S2LP_Gpio.h']]],
+  ['rx_5ffifo_5falmost_5ffull',['RX_FIFO_ALMOST_FULL',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550ac931a9615b2c9fbbda860d769016433c',1,'S2LP_Gpio.h']]],
+  ['rx_5ffifo_5ferror',['RX_FIFO_ERROR',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550a504b193a9137096ccfebbaaea7f45c91',1,'S2LP_Gpio.h']]],
+  ['rx_5fsniff_5ftimeout',['RX_SNIFF_TIMEOUT',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550a27c051bf0f1a3765ab533bc255593529',1,'S2LP_Gpio.h']]],
+  ['rx_5fstart_5ftime',['RX_START_TIME',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550af75dbc6fc101d2b28f11ad335077de06',1,'S2LP_Gpio.h']]],
+  ['rx_5ftimeout',['RX_TIMEOUT',['../group__Gpio__Exported__Types.html#gga32b0f7ba71811d0cff33699697f6c550af664ba0fb57bbf816c8b80996e8c0678',1,'S2LP_Gpio.h']]]
+];

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['s2lpcmd',['S2LPCmd',['../group__Commands__Exported__Types.html#ga1a5fb952787691343312ef65dd6454d5',1,'S2LP_Commands.h']]],
+  ['s2lpgpioio',['S2LPGpioIO',['../group__Gpio__Exported__Types.html#ga16e1c622c4a0a136f26724b992b32586',1,'S2LP_Gpio.h']]],
+  ['s2lpgpiomode',['S2LPGpioMode',['../group__Gpio__Exported__Types.html#ga93afc54d4cda634c7c5cbf8a69013b5a',1,'S2LP_Gpio.h']]],
+  ['s2lpgpiopin',['S2LPGpioPin',['../group__Gpio__Exported__Types.html#ga7df105f2d110525f5323d56216255c32',1,'S2LP_Gpio.h']]],
+  ['s2lpstate',['S2LPState',['../group__Types__Exported__Types.html#ga0b9dd89c2441e622c7b8a23dcb79fb7c',1,'S2LP_Types.h']]],
+  ['safcmode',['SAfcMode',['../group__Radio__Exported__Types.html#gab5a9ee82158e877a2a3a08d3bd7bba90',1,'S2LP_Radio.h']]],
+  ['sbool',['SBool',['../group__Types__Exported__Types.html#gabfbd40443272561261cf6e48ac7c3225',1,'S2LP_Types.h']]],
+  ['sclkrecmode',['SClkRecMode',['../group__Radio__Exported__Types.html#ga44f1cee0b20078188cba4dfb6e83ac13',1,'S2LP_Radio.h']]],
+  ['scsmaperiod',['SCsmaPeriod',['../group__Csma__Exported__Types.html#gab090e77826749b1135bbbd08e8ae7b9c',1,'S2LP_Csma.h']]],
+  ['sdkevalbutton',['SdkEvalButton',['../group__SDK__EVAL__Button__Exported__Types.html#ga1efbf62e38ae74004084440e3212e6d5',1,'SDK_EVAL_Button.h']]],
+  ['sdkevalbuttonmode',['SdkEvalButtonMode',['../group__SDK__EVAL__Button__Exported__Types.html#ga3311f8a96152793f7cafae56d0bd82c9',1,'SDK_EVAL_Button.h']]],
+  ['sdkevaljoystate',['SdkEvalJoyState',['../group__SDK__EVAL__Button__Exported__Types.html#gad48597e7747a215f4b939bc9ee560438',1,'SDK_EVAL_Button.h']]],
+  ['sdkevalled',['SdkEvalLed',['../group__SDK__EVAL__Led__Exported__Types.html#ga641206761c3ca976a4a628c7da714597',1,'SDK_EVAL_Led.h']]],
+  ['sense_5fstates',['sense_states',['../group__sense__appln.html#ga2d9ddadb1f2ddf5196506eeaccb04d6b',1,'sense_states():&#160;main.c'],['../group__sensebe__appln.html#ga2d9ddadb1f2ddf5196506eeaccb04d6b',1,'sense_states():&#160;main.c'],['../group__sensebe__appln.html#ga2d9ddadb1f2ddf5196506eeaccb04d6b',1,'sense_states():&#160;main.c'],['../group__sensebe__appln.html#ga2d9ddadb1f2ddf5196506eeaccb04d6b',1,'sense_states():&#160;main.c']]],
+  ['sflagstatus',['SFlagStatus',['../group__Types__Exported__Types.html#gad62879632ee8b65fd9116ac8006e9767',1,'S2LP_Types.h']]],
+  ['sfunctionalstate',['SFunctionalState',['../group__Types__Exported__Types.html#gaf4cbf41d3c8f611d12adae5d2c29c3c2',1,'S2LP_Types.h']]],
+  ['simple_5fadc_5fgain_5ft',['simple_adc_gain_t',['../group__group__simple__adc.html#ga672ce0019e42f25fc673f00ca1416fdb',1,'simple_adc.h']]],
+  ['simple_5fadc_5finput_5ft',['simple_adc_input_t',['../group__group__simple__adc.html#ga8d9daa6bee3878c8ba451beecdec4357',1,'simple_adc.h']]],
+  ['simple_5fpwm_5fchannel_5ft',['simple_pwm_channel_t',['../group__group__simple__pwm.html#ga47f5697ddb8cb6cef04216c198da34b3',1,'simple_pwm.h']]],
+  ['simple_5fpwm_5ftimer_5ffreq_5ft',['simple_pwm_timer_freq_t',['../group__group__simple__pwm.html#ga4b0e4d7066a990458b71fa9d885d130b',1,'simple_pwm.h']]],
+  ['sisiequ',['SIsiEqu',['../group__Radio__Exported__Types.html#ga5b6badb8aed379fa34d2c01756106cc5',1,'S2LP_Radio.h']]],
+  ['sm_5fstates',['sm_states',['../group__simple__statemachine.html#ga85a12a157ef9e7bd4abdc6c1cd2b2f1d',1,'main.c']]],
+  ['srssimode',['SRssiMode',['../group__Qi__Exported__Types.html#ga83fd1be7372e5799e902635e1cc84179',1,'S2LP_Qi.h']]]
+];
